@@ -1,2 +1,4 @@
 # hello-world
-Prueba
+Hola!
+
+Espero aprender a usar GitHub :)
